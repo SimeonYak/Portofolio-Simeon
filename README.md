@@ -1,5 +1,5 @@
-Portofolio ini saya kerjakan dengan panduan mengerjakan di youtube channel BEDIMCODE
-Thanks
+###Portofolio ini saya kerjakan dengan panduan mengerjakan di youtube channel BEDIMCODE
+###Thanks
 
 
 # Responsive Portfolio Website Simeon
