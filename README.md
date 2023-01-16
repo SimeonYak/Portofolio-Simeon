@@ -1,3 +1,7 @@
+Portofolio ini saya kerjakan dengan panduan mengerjakan di youtube channel BEDIMCODE
+Thanks
+
+
 # Responsive Portfolio Website Alexa
 ## [Watch it on youtube](https://youtu.be/27JtRAI3QO8)
 ### Responsive Portfolio Website Alexa
